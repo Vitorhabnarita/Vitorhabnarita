@@ -31,9 +31,7 @@ Sou um estudante de 19 anos cursando **Engenharia de Software** na UniEvangélic
   <a href=https://www.instagram.com/vitor.habn target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
   </a>
-  <a href=mailto:vitorhabnarita@gmail.com>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
-  </a>
+  
 </p>
 
 ---
