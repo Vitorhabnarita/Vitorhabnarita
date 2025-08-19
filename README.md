@@ -18,9 +18,7 @@ Sou um estudante de 19 anos cursando **Engenharia de Software** na UniEvangélic
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
-  <a href=https://cursos.alura.com.br/user/vitorhabnarita target="_blank">
-    <img src="https://img.shields.io/badge/Alura-00A86B?style=for-the-badge&logo=alura&logoColor=white" target="_blank" alt="Alura">
-  </a>
+  
 </p>
 
 ---
@@ -34,7 +32,9 @@ Sou um estudante de 19 anos cursando **Engenharia de Software** na UniEvangélic
   <a href=https://www.instagram.com/vitor.habn target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
   </a>
-  
+  <a href=https://cursos.alura.com.br/user/vitorhabnarita target="_blank">
+    <img src="https://img.shields.io/badge/Alura-00A86B?style=for-the-badge&logo=alura&logoColor=white" target="_blank" alt="Alura">
+  </a>
 </p>
 
 ---
