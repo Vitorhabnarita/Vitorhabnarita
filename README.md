@@ -1,7 +1,7 @@
 # Olá, eu sou o Vitor Hiroshi! 👋
 
 ### 👨‍💻 Sobre mim
-Sou um estudante de 19 anos cursando **Engenharia de Software** na UniEvangélica em Anápolis, GO. Sou apaixonado por tecnologia e por como a programação pode ser usada para resolver problemas do dia a dia.
+Sou um estudante de 19 anos cursando **Engenharia de Software** na UniEvangélica em Anápolis, GO. Ainda sou novo na programação mas estou aprendendo mais todos os dias!
 
 - 🌱 Atualmente estou focado em aprofundar meus conhecimentos em **Lógica de programação** com **JavaScript** e **Python**.
 - 💡 Tenho interesse em desenvolvimento web, inteligência artificial e trabalhar em projetos pessoais
@@ -31,7 +31,7 @@ Sou um estudante de 19 anos cursando **Engenharia de Software** na UniEvangélic
   <a href=https://www.instagram.com/vitor.habn target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
   </a>
-  <a href="mailto:vitorhabnarita@gmail.com">
+  <a href=mailto:vitorhabnarita@gmail.com>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
   </a>
 </p>
