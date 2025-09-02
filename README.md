@@ -1,15 +1,15 @@
-# Olá, eu sou o Vitor Hiroshi! 👋
+# Olá, eu sou o Vitor Hiroshi! 
 
-### 👨‍💻 Sobre mim
+###  Sobre mim
 Sou um estudante de 19 anos cursando **Engenharia de Software** na UniEvangélica em Anápolis, GO. Ainda sou novo na programação mas estou aprendendo mais todos os dias!
 
-- 🌱 Atualmente estou focado em aprofundar meus conhecimentos em **Lógica de programação** com **JavaScript** e **Python**.
-- 💡 Tenho interesse em desenvolvimento web, inteligência artificial e trabalhar em projetos pessoais
-- 📫 Aberto a colaborações e novas oportunidades de aprendizado!
+-  Atualmente estou focado em aprofundar meus conhecimentos em **Lógica de programação** com **JavaScript** e **Python**.
+-  Tenho interesse em desenvolvimento web, inteligência artificial e trabalhar em projetos pessoais
+-  Aberto a colaborações e novas oportunidades de aprendizado!
 
 ---
 
-### 🚀 Habilidades e Tecnologias
+###  Habilidades e Tecnologias
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -23,7 +23,7 @@ Sou um estudante de 19 anos cursando **Engenharia de Software** na UniEvangélic
 
 ---
 
-### 📫 Conecte-se comigo
+###  Conecte-se comigo
 
 <p align="left">
   <a href=https://www.linkedin.com/in/vitor-hiroshi-alkmin-beda-narita-282a5b34b/ target="_blank">
@@ -39,7 +39,7 @@ Sou um estudante de 19 anos cursando **Engenharia de Software** na UniEvangélic
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+###  Minhas Estatísticas no GitHub
 
 ![Estatísticas do GitHub de Vitorhabnarita](https://github-readme-stats.vercel.app/api?username=Vitorhabnarita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 <br/>
